@@ -1,2 +1,2 @@
 # promstatic
-static website for s3
+static website for aws s3
